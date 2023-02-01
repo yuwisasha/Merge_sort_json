@@ -1,6 +1,6 @@
 # Merge_sort_json
 
-This script merging JSONL files 
+This script merging and sorting by time JSONL files with logs 
 
 Launch:
 1. python -m venv .venv
